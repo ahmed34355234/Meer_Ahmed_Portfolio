@@ -5,14 +5,9 @@ This is my personal **Portfolio Website** built using only **HTML** and **CSS**.
 ## 🚀 Features  
 ✅ Clean and Minimalistic Layout  
 ✅ Static Content to showcase projects  
-✅ Simple CSS styling for layout and design  
+✅ Simple HTML 
 
 ## 🛠️ Technologies Used  
 - **HTML5**  
 - **CSS3**  
-
-## 📂 Project Setup  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/meerahmedbaloch/portfolio-website.git
 
